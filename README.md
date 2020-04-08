@@ -2,12 +2,14 @@
 
 This app finds your location at the click of a button and displays your exact address.
 
+![](./google-maps-react.png)
+
 ## Built With
 
 - React
 - Google Maps API and Geolocation API
 - Google-map-react NPM package
-- Bootstrap
+- Boostrap
 
 ## Getting Started
 
