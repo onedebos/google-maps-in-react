@@ -27,7 +27,13 @@ npm start
 
 - to start the app in the browser.
 
-### Deployment
+### Automated tests
+
+- This app currently does not have any automated tests. Tests will be written at a later date.
+
+### Planned Features
+
+- Allow users to order food without typing in their address.
 
 ## Authors
 
