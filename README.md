@@ -12,6 +12,14 @@ This app finds your location at the click of a button and displays your exact ad
 - Boostrap
 
 ## Getting Started
+- Clone the repo
+```
+git clone git@github.com:onedebos/google-maps-in-react.git 
+```
+- cd into the repo
+```
+cd google-maps-in-react
+```
 
 - run
 
